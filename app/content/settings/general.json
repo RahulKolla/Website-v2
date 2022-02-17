@@ -4,7 +4,7 @@
   "welcomeText": "# Hey, I'm Rahul Kolla - A CS Student at UT Dallas.\n\nI am interested in the intersection between financial services and computer science. I am looking for internships that can cultivate my understanding in both fields.",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
-  "loadingColor": "#0b3765",
+  "loadingColor": "#6d2480",
   "seoDescription": "A quickstart for Nuxt & Netlify CMS",
   "seoMetaImage": ""
 }
